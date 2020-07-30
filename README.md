@@ -1,2 +1,3 @@
-# python-programs
-These are some valuable handy python programs that I wrote.
+# Python Beginner Programs
+
+This contains my very small python programs
